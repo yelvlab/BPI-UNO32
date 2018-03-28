@@ -25,7 +25,7 @@
 
 3. [`Test_Code`](/Test_Code)存放BPI:uno32板基础功能测试代码
 
-3. [`Programing`](/Burning)目录下面介绍了使用不同的软件烧录的方法。
+3. [`Programing`](/Programing)目录下面介绍了使用不同的软件烧录的方法。
 
 ## BPI-UNO32 Pin Define
 
