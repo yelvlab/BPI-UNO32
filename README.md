@@ -1,6 +1,6 @@
 ![logo](/pic/logo.jpg)
 
-# BPI:bit
+# BPI-UNO32
 
 > - [官方英文论坛](http://forum.banana-pi.org/c/BPI-Iot-module/BPI-Webduino)
 > - [官方中文论坛](https://forum.banana-pi.org.cn/c/bpi-webduino)
